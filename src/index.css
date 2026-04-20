@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --color-steam-blue: #1b2838;
+  --color-steam-dark: #0b0e14;
+  --color-steam-bright: #66c0f4;
+  --color-steam-border: #3d4450;
+  --color-steam-sidebar: #12161d;
+  --color-steam-input: #0d121a;
+
+  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: "Courier New", Courier, monospace;
+  --font-serif: "Georgia", serif;
+}
+
+@layer base {
+  body {
+    @apply bg-steam-dark text-[#c6d4df] font-sans h-screen w-screen overflow-hidden;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply font-serif italic text-[12px] tracking-[0.1em] text-steam-bright uppercase mb-4;
+  }
+
+  .glass-panel {
+    @apply bg-steam-blue/60 border border-steam-border;
+  }
+
+  .btn-primary {
+    @apply bg-gradient-to-r from-[#47bfff] to-[#1a44c2] text-white font-semibold py-2.5 px-4 text-center rounded-[2px] cursor-pointer hover:brightness-110 transition-all;
+  }
+
+  .steam-input {
+    @apply bg-steam-input border border-[#323e4c] px-3 py-1.5 text-white text-[13px] focus:border-steam-bright focus:outline-none transition-colors;
+  }
+}
+

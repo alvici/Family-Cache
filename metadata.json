@@ -1,0 +1,6 @@
+{
+  "name": "Steam Family Cache",
+  "description": "Manager for Steam Families with game ID caching and member management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
