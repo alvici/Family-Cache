@@ -86,7 +86,7 @@
       "timeCreated": 1561430342,
       "level": 11,
       "gameCount": 73,
-      "backgroundUrl": "https://community.akamai.steamstatic.com/economy/image/items/2855140/fda4fdeb85a59563cf324600f9e23477861a02d5.jpg"
+      "backgroundUrl": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2855140/fda4fdeb85a59563cf324600f9e23477861a02d5.jpg"
     },
     {
       "steamId": "76561198135143384",
@@ -362,7 +362,7 @@
       "timeCreated": 1410947871,
       "level": 25,
       "gameCount": 204,
-      "backgroundUrl": "https://community.akamai.steamstatic.com/economy/image/items/953490/e4712bd7f94806a7ea915786e925f43ec44b1be6.jpg"
+      "backgroundUrl": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/953490/e4712bd7f94806a7ea915786e925f43ec44b1be6.jpg"
     },
     {
       "steamId": "76561199029979205",
@@ -455,7 +455,7 @@
       "timeCreated": 1582979408,
       "level": 25,
       "gameCount": 80,
-      "backgroundUrl": "https://community.akamai.steamstatic.com/economy/image/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg"
+      "backgroundUrl": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg"
     },
     {
       "steamId": "76561198313905159",
@@ -573,7 +573,7 @@
       "timeCreated": 1467032015,
       "level": 15,
       "gameCount": 105,
-      "backgroundUrl": "https://community.akamai.steamstatic.com/economy/image/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg"
+      "backgroundUrl": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/2861720/386c658bc267ea1a1973abd8f40990d66233caae.jpg"
     },
     {
       "steamId": "76561199821066741",
@@ -730,9 +730,9 @@
       "timeCreated": 1737881739,
       "level": 17,
       "gameCount": 144,
-      "backgroundUrl": "https://community.akamai.steamstatic.com/economy/image/items/601220/40a4cf356b8d102baa43cc6ec75424634071b539.jpg"
+      "backgroundUrl": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/items/601220/40a4cf356b8d102baa43cc6ec75424634071b539.jpg"
     }
   ],
   "createdAt": "2026-04-21T08:48:21.291Z",
-  "updatedAt": "2026-04-21T15:21:29.277Z"
+  "updatedAt": "2026-04-21T15:26:55.534Z"
 }
